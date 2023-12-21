@@ -1,0 +1,4 @@
+C:\Users\tricu\OneDrive\Desktop\repos\MethodOverloading\MethodOverloading\obj\Debug\netcoreapp3.1\MethodOverloading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tricu\OneDrive\Desktop\repos\MethodOverloading\MethodOverloading\obj\Debug\netcoreapp3.1\MethodOverloading.AssemblyInfoInputs.cache
+C:\Users\tricu\OneDrive\Desktop\repos\MethodOverloading\MethodOverloading\obj\Debug\netcoreapp3.1\MethodOverloading.AssemblyInfo.cs
+C:\Users\tricu\OneDrive\Desktop\repos\MethodOverloading\MethodOverloading\obj\Debug\netcoreapp3.1\MethodOverloading.csproj.CoreCompileInputs.cache
